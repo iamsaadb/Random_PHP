@@ -28,7 +28,7 @@ if ($conn->connect_error) {
             <option  value="House">House</option>
             <option  value="Studio">Studio</option>
           </select>
-          <input type="search" name="text" placeholder="Enter a value"> 
+          <input type="search" name="search"  placeholder="Enter a value"> 
           <input type="submit" value="Search" >
     </form>
     </body>
